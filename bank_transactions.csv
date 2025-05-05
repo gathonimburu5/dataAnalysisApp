@@ -1,51 +1,51 @@
 TransactionID,Date,AccountNumber,TransactionType,Amount,Description,Balance
 34edd9dc-2bc3-4789-888f-08b98c06c2a9,9/16/2024,LCMV13173393190154,Debit,681.89,Individual skill new blood.,11843.75
-49d4e40d-d885-49d7-8188-63cfed02e2fe,12/3/2024,DHRP91455090138612,Deposit,4374.27,Step daughter majority choice them including election.,14713.63
-641f9f02-8fe0-4219-8011-a554ba7e1e4f,4/10/2025,TOHZ74380843741005,Purchase,4982.49,Build research yourself apply condition benefit.,16110.69
-a6fe5c39-d4e5-4364-bec7-4e52b7027b6f,5/29/2024,HXBM43315789478406,Purchase,8890.51,Suggest anyone line even ask firm like.,18396.85
-cdc7e238-5a2d-4bac-b667-727d098ce76b,6/27/2024,ISVY13884491375903,Loan Payment,9934,Leg history several final operation commercial show century.,2126.16
-3ba0967d-47a8-4503-8873-f147295c7ce8,5/1/2024,XMFQ19651571018959,ATM Withdrawal,9671.72,Job through include church painting include.,3838.19
+49d4e40d-d885-49d7-8188-63cfed02e2fe,12/3/2024,DHRP91455090138612,Debit,4374.27,Step daughter majority choice them including election.,14713.63
+641f9f02-8fe0-4219-8011-a554ba7e1e4f,4/10/2025,TOHZ74380843741005,Debit,4982.49,Build research yourself apply condition benefit.,16110.69
+a6fe5c39-d4e5-4364-bec7-4e52b7027b6f,5/29/2024,HXBM43315789478406,Credit,8890.51,Suggest anyone line even ask firm like.,18396.85
+cdc7e238-5a2d-4bac-b667-727d098ce76b,6/27/2024,ISVY13884491375903,Credit,9934,Leg history several final operation commercial show century.,2126.16
+3ba0967d-47a8-4503-8873-f147295c7ce8,5/1/2024,XMFQ19651571018959,Credit,9671.72,Job through include church painting include.,3838.19
 d1704a82-6fc5-4fe5-96df-816327eed475,1/6/2025,DTGO65886566115251,Credit,8195.87,Happy career visit rather against.,19619.15
-0067aa39-fe70-4f28-a02b-3364f11b92fa,1/4/2025,IHPX50570399067546,Transfer Out,6319.94,Think well cause American.,3701.06
+0067aa39-fe70-4f28-a02b-3364f11b92fa,1/4/2025,IHPX50570399067546,Debit,6319.94,Think well cause American.,3701.06
 8d80602a-bde1-4825-a8c3-1a219c773e3b,7/18/2024,XBHJ78120287589166,Debit,3373.22,Hot newspaper more.,6018.32
-77cfd5ac-fa97-482c-8e8e-ecb336983b88,10/15/2024,DFSB84302433823976,Refund,6149.85,Across bad wait window teacher.,9556.53
-5c8dbbfe-f2ac-4131-9e64-f0007d75ae17,4/1/2025,OKIW88858655828768,ATM Withdrawal,538.12,Enter various southern.,19823.76
-bb1a05ad-cd72-4388-9de5-0ad1fa68ab64,5/11/2024,TNLT69734163434514,Loan Payment,6097.87,Near push money peace rich account happen figure.,7091.73
-5a62dab8-49a9-404f-8dc7-16b3938b980e,5/10/2024,TLNI24700644754427,Refund,2037.59,It friend range.,2622.21
-be6d7659-b2c3-49a6-bfde-e3faaefc04b5,12/7/2024,GTIT82551435499312,Refund,8483.19,Pass speak growth shake clear.,17960.18
-f5fe93ac-eb90-4401-9e39-8669acbdee51,8/28/2024,UYHZ63197030765571,Loan Payment,3665.47,Prepare prepare place dinner else modern.,11352.18
-9097372a-c56f-44fb-b80b-6ed258412705,11/26/2024,QZUS89701789637426,ATM Withdrawal,1912.98,Interest tree stuff score.,7587.22
-251c12c8-c0e0-4cd3-95c7-88ade5d2daba,11/1/2024,WSWE94903589508861,Purchase,6027.33,Available personal itself line direction.,13906.08
-d8fc1f75-b822-40bb-b5ae-6fd9099c54ca,3/20/2025,ZWYK00745465949581,Loan Payment,9718.32,Send candidate dream can right or.,4893.34
-397d2a7b-cbba-4ea7-8dde-c8428f3e39de,5/5/2024,KKJD86914724466148,Purchase,7789.67,Third knowledge smile in development those.,16319.33
+77cfd5ac-fa97-482c-8e8e-ecb336983b88,10/15/2024,DFSB84302433823976,Debit,6149.85,Across bad wait window teacher.,9556.53
+5c8dbbfe-f2ac-4131-9e64-f0007d75ae17,4/1/2025,OKIW88858655828768,Credit,538.12,Enter various southern.,19823.76
+bb1a05ad-cd72-4388-9de5-0ad1fa68ab64,5/11/2024,TNLT69734163434514,Credit,6097.87,Near push money peace rich account happen figure.,7091.73
+5a62dab8-49a9-404f-8dc7-16b3938b980e,5/10/2024,TLNI24700644754427,Debit,2037.59,It friend range.,2622.21
+be6d7659-b2c3-49a6-bfde-e3faaefc04b5,12/7/2024,GTIT82551435499312,Credit,8483.19,Pass speak growth shake clear.,17960.18
+f5fe93ac-eb90-4401-9e39-8669acbdee51,8/28/2024,UYHZ63197030765571,Debit,3665.47,Prepare prepare place dinner else modern.,11352.18
+9097372a-c56f-44fb-b80b-6ed258412705,11/26/2024,QZUS89701789637426,Credit,1912.98,Interest tree stuff score.,7587.22
+251c12c8-c0e0-4cd3-95c7-88ade5d2daba,11/1/2024,WSWE94903589508861,Debit,6027.33,Available personal itself line direction.,13906.08
+d8fc1f75-b822-40bb-b5ae-6fd9099c54ca,3/20/2025,ZWYK00745465949581,Credit,9718.32,Send candidate dream can right or.,4893.34
+397d2a7b-cbba-4ea7-8dde-c8428f3e39de,5/5/2024,KKJD86914724466148,Debit,7789.67,Third knowledge smile in development those.,16319.33
 f8a48f2b-a365-48b6-8359-5c97dd45bb17,8/21/2024,FLLW83229827297469,Credit,2145.96,Letter because Republican seven operation.,6959.23
-bba6140f-ae7f-4242-8b27-475b1e3e2aca,5/24/2024,ZIRI25975821509614,Transfer In,8336.02,Beyond free service debate democratic offer.,10698.61
-185b70f5-7c0c-4bbd-8666-804e8a83ce0a,3/8/2025,NSAX19587829989933,Purchase,70.04,Party door owner community.,6964.55
-7b642950-e511-4efd-bb22-fb5a6393603f,7/11/2024,XSRJ34934823846015,Purchase,6569.95,Crime program participant year politics occur would writer.,3290.82
+bba6140f-ae7f-4242-8b27-475b1e3e2aca,5/24/2024,ZIRI25975821509614,Debit,8336.02,Beyond free service debate democratic offer.,10698.61
+185b70f5-7c0c-4bbd-8666-804e8a83ce0a,3/8/2025,NSAX19587829989933,Credit,70.04,Party door owner community.,6964.55
+7b642950-e511-4efd-bb22-fb5a6393603f,7/11/2024,XSRJ34934823846015,Debit,6569.95,Crime program participant year politics occur would writer.,3290.82
 6e8dddfe-5d57-4dbc-95f8-c503355e001a,2/18/2025,SLEH60893009868531,Credit,1899.8,Foreign probably learn report thing.,2088.73
-c2c41bbc-cd4d-466a-a5ab-361e1f709331,6/11/2024,VJUV16212236886655,Refund,3598.43,Traditional no audience second both free like on.,14652.67
+c2c41bbc-cd4d-466a-a5ab-361e1f709331,6/11/2024,VJUV16212236886655,Debit,3598.43,Traditional no audience second both free like on.,14652.67
 57b80da4-d867-4e92-a6dd-42c096a07f60,11/26/2024,TQQQ77328296507130,Credit,9029.43,Pressure drop room line box either question leader.,18309.08
-f3cba647-2387-4d4f-80fa-e34e279d7807,1/15/2025,PCMT85240132865292,Loan Payment,3892.23,Let capital fly could near big.,2203.53
-c2b4db56-830d-48e9-b907-ca89146bb934,7/7/2024,GQHK85672269339873,Loan Payment,3779.94,From tell plant campaign action nor.,17912.76
-469cce0a-adef-4904-a96f-c5fdbf669530,5/30/2024,SSTQ40761290263773,Deposit,5868.89,Ability television near see PM first per.,14204.7
-082a8724-f6b3-4d7b-9d68-4c9c857dd29d,5/20/2024,ORLM20614852635379,ATM Withdrawal,4952.62,High doctor able.,981.61
-b9fcfd68-272d-4e29-9663-577de871538b,1/29/2025,AZXP93086000435220,Loan Payment,5402.31,Imagine customer young watch.,17348.66
-275de2dd-506b-4292-a4b5-123f8eb2d89f,7/28/2024,STMK49721509738881,Deposit,8494.9,Other able drug program project.,2971.56
-e61e6697-dadc-4586-91eb-e77976a85e97,3/31/2025,GJTB72239310221614,Deposit,7338.62,Election city admit brother look really boy.,4811.36
+f3cba647-2387-4d4f-80fa-e34e279d7807,1/15/2025,PCMT85240132865292,Debit,3892.23,Let capital fly could near big.,2203.53
+c2b4db56-830d-48e9-b907-ca89146bb934,7/7/2024,GQHK85672269339873,Credit,3779.94,From tell plant campaign action nor.,17912.76
+469cce0a-adef-4904-a96f-c5fdbf669530,5/30/2024,SSTQ40761290263773,Debit,5868.89,Ability television near see PM first per.,14204.7
+082a8724-f6b3-4d7b-9d68-4c9c857dd29d,5/20/2024,ORLM20614852635379,Credit,4952.62,High doctor able.,981.61
+b9fcfd68-272d-4e29-9663-577de871538b,1/29/2025,AZXP93086000435220,Debit,5402.31,Imagine customer young watch.,17348.66
+275de2dd-506b-4292-a4b5-123f8eb2d89f,7/28/2024,STMK49721509738881,Credit,8494.9,Other able drug program project.,2971.56
+e61e6697-dadc-4586-91eb-e77976a85e97,3/31/2025,GJTB72239310221614,Debit,7338.62,Election city admit brother look really boy.,4811.36
 56274346-e167-44b8-8c26-523e0819ed0b,7/27/2024,LDKT93571434347774,Credit,7957.03,Task party body wrong.,7707.99
-36e52e00-d126-49b8-87b8-11175bbe89cf,9/22/2024,MIBB57947149734291,ATM Withdrawal,6894.92,West actually choose table.,12268.2
-e765833b-43f0-473d-b076-cb22c1101cf2,1/12/2025,NQWQ61422996153075,Loan Payment,8833.58,Player may picture wrong read character change attention.,1083.53
-a7028523-8c86-4083-83a3-3503185ad46f,2/23/2025,AGIX07966396502328,Purchase,5335.02,Degree him hotel.,775.74
+36e52e00-d126-49b8-87b8-11175bbe89cf,9/22/2024,MIBB57947149734291,Debit,6894.92,West actually choose table.,12268.2
+e765833b-43f0-473d-b076-cb22c1101cf2,1/12/2025,NQWQ61422996153075,Credit,8833.58,Player may picture wrong read character change attention.,1083.53
+a7028523-8c86-4083-83a3-3503185ad46f,2/23/2025,AGIX07966396502328,Debit,5335.02,Degree him hotel.,775.74
 8d64fa59-b0d1-42bf-b4d3-1404c7de5a0f,9/24/2024,PYVQ29746759313560,Credit,5267.48,Shake lay letter time major suffer sport ball.,1248.54
 cdbfb499-c928-4b9c-ab9c-489058daf27c,6/10/2024,VNIP43173821592786,Debit,6130.71,Phone long have oil role a you.,19948.07
-8d9d9ea8-845e-4cbf-82fb-5c9c8e74601a,7/12/2024,KNXM00859350815951,Transfer Out,4363.23,Baby individual data money pull.,17433.32
+8d9d9ea8-845e-4cbf-82fb-5c9c8e74601a,7/12/2024,KNXM00859350815951,Debit,4363.23,Baby individual data money pull.,17433.32
 9b33acd8-1aa3-40fc-8fd9-89aac4f8d150,5/3/2024,KTCY31339221064876,Debit,2037.51,Material create cover son cost through do.,3756.17
-9d0c29cb-ceda-4245-9e0d-2915bdb755c1,7/3/2024,TUFN30553501957269,Refund,7843.37,Charge yard before role send modern.,8062.97
-70fd99ef-00d8-4084-bf9f-7f026d3adfd9,8/20/2024,MWIM14483318814126,Transfer In,8722.63,Various listen nature head inside.,10431.42
-d331950a-0886-450c-ad1f-6ad9e8c4c13a,3/12/2025,FQAO47617907270020,Transfer In,2229.22,Man soldier public else television south station.,13663.42
+9d0c29cb-ceda-4245-9e0d-2915bdb755c1,7/3/2024,TUFN30553501957269,Debit,7843.37,Charge yard before role send modern.,8062.97
+70fd99ef-00d8-4084-bf9f-7f026d3adfd9,8/20/2024,MWIM14483318814126,Credit,8722.63,Various listen nature head inside.,10431.42
+d331950a-0886-450c-ad1f-6ad9e8c4c13a,3/12/2025,FQAO47617907270020,Debit,2229.22,Man soldier public else television south station.,13663.42
 a5415df4-125b-45e0-8ee2-d7b3197b9f1c,6/13/2024,VHTR14389489230712,Debit,1228.64,Third decide peace think whether month.,10116.96
-018a1830-86c6-4f82-b67f-6ebb819e02c6,6/23/2024,FZBB31964199226385,ATM Withdrawal,4302.61,Little over watch star itself.,13505.64
-72782444-4f3a-436c-aad6-4ff37f97d2ff,5/13/2024,CMFN28345951682274,Purchase,5696.81,Thing during hear news door thought imagine.,11473.06
+018a1830-86c6-4f82-b67f-6ebb819e02c6,6/23/2024,FZBB31964199226385,Credit,4302.61,Little over watch star itself.,13505.64
+72782444-4f3a-436c-aad6-4ff37f97d2ff,5/13/2024,CMFN28345951682274,Debit,5696.81,Thing during hear news door thought imagine.,11473.06
 f1c6eb3f-1adf-4955-aad6-e3a43516b327,8/10/2024,UXLA13519592590692,Credit,7016.58,Build concern citizen technology democratic everybody.,5858.99
-d4edc24c-ad43-4dea-a6de-f3364dc6d5ac,3/20/2025,TWZL11123521084047,Loan Payment,9885.57,Question prepare million simple ago.,6978.84
-cdfdc990-45a9-457c-9ba9-2604588388e7,1/6/2025,EQOY09058692075156,Refund,7527.45,Energy radio under young son for.,11975.88
+d4edc24c-ad43-4dea-a6de-f3364dc6d5ac,3/20/2025,TWZL11123521084047,Debit,9885.57,Question prepare million simple ago.,6978.84
+cdfdc990-45a9-457c-9ba9-2604588388e7,1/6/2025,EQOY09058692075156,Credit,7527.45,Energy radio under young son for.,11975.88
