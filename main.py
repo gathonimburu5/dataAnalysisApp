@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from langdetect import detect
 import json
 import os
 
@@ -111,7 +112,7 @@ def main():
                 with tabs2:
                     fig = px.pie(category_totals, values="Amount", names="Category", title="DR Expense wise Category")
                     st.plotly_chart(fig, use_container_width=True)
-                
+
                 debit_df["Date"] = pd.to_datetime(debit_df["Date"], errors="coerce")
                 debit_df["month_year"] = debit_df["Date"].dt.to_period("M")
                 with st.expander("Debit Time Series Analysis"):
@@ -169,6 +170,9 @@ def main():
                 
                 with st.expander("Credit Time Series Summary"):
                     st.write(line_chart.T.style.background_gradient(cmap="Blues"))
-            
+
+                text_detect = st.text_input("Text To Detect:", placeholder="enter some text to be detected", value="testing here")
+                language = detect(text_detect)
+                st.write(f"Detected Language: {language}")
 
 main()
