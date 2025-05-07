@@ -1,7 +1,11 @@
+import folium.map
 import streamlit as st
 import pandas as pd
+import folium
 import plotly.express as px
 from langdetect import detect
+from geopy.geocoders import Nominatim
+from streamlit_folium import st_folium
 import json
 import os
 
@@ -174,5 +178,18 @@ def main():
                 text_detect = st.text_input("Text To Detect:", placeholder="enter some text to be detected", value="testing here")
                 language = detect(text_detect)
                 st.write(f"Detected Language: {language}")
+
+                location_name = st.text_input("Location", placeholder="enter your locations")
+                geolocation = Nominatim(user_agent="geoapi")
+                location = geolocation.geocode(location_name)
+                if location:
+                    latitude = location.latitude
+                    longitude = location.longitude
+                    map = folium.Map(location=[latitude, longitude], zoom_start=12)
+                    folium.Marker([latitude, longitude], popup=location_name).add_to(map)
+                    st_folium(map, height=800, use_container_width=True)
+
+                else:
+                    st.error("Location not found, try again!!")
 
 main()
