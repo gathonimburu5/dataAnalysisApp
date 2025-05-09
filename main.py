@@ -171,7 +171,7 @@ def main():
                     line_chart = pd.DataFrame(credit_df.groupby(credit_df["month_year"].dt.strftime("%Y : %b"))["Amount"].sum()).reset_index()
                     fig2 = px.line(line_chart, x="month_year", y="Amount", labels="Amount", width=1000, height=500, template="gridon")
                     st.plotly_chart(fig2, use_container_width=True)
-                
+
                 with st.expander("Credit Time Series Summary"):
                     st.write(line_chart.T.style.background_gradient(cmap="Blues"))
 
@@ -180,7 +180,7 @@ def main():
                 st.write(f"Detected Language: {language}")
 
                 location_name = st.text_input("Location", placeholder="enter your locations")
-                geolocation = Nominatim(user_agent="geoapi")
+                geolocation = Nominatim(user_agent="geoapi", timeout=20)
                 location = geolocation.geocode(location_name)
                 if location:
                     latitude = location.latitude
@@ -191,5 +191,6 @@ def main():
 
                 else:
                     st.error("Location not found, try again!!")
+                    return None
 
 main()
